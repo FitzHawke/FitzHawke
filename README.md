@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Will Featherston</h1>
 <h3 align="center">A passionate full stack software developer from Canada</h3>
 
-- 🔭 I’m currently working on **100Devs**
+- 🔭 I’m currently working on a deeper understanding of fullstack web technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
