@@ -93,7 +93,11 @@ Open-source, Web Accessiblity and Design. I like to create and contribute to ope
 	
 </table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitzhawke&show_icons=true&locale=en" alt="fitzhawke" /></p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&" alt="fitzhawke" /></p>
+## 🔥 Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=algolia" alt="fitzhawke" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=algolia&layout=compact" alt="fitzhawke" /></p>
 
+<br>
+<hr/>
