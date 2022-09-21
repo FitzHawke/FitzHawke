@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Will Featherston 👋</h1>
 
 <h4 align="center">
-I'm a Full-Stack Developer based in Canada, I am passionate about Full-Stack Web Development,
+I'm a Full-Stack Developer based in Canada, who is passionate about Full-Stack Web Development,
 Open-source, Web Accessiblity and Design. I like to create and contribute to open source projects and create web applications that are responsive, powerful and accessible to all. 
 
 <h6 align="center">Languages and Tools:</h6>
