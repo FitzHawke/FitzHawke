@@ -103,9 +103,29 @@ I'm a Full-Stack Web Developer based in Canada, who is passionate about Web Deve
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <!-- <a href=""><img src="https://img.icons8.com/material-two-tone/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:will.featherston@gmail.com"><img src="https://img.icons8.com/material-two-tone/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/FitzHawke"><img src="https://img.icons8.com/material-two-tone/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/will-featherston/"><img src="https://img.icons8.com/material-two-tone/50/000000/linkedin--v1.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/FitzHawke"><img src="https://img.icons8.com/material-two-tone/50/000000/twitter.png" title='Twitter' alt="twitter"/></a>
+	<a href="mailto:will.featherston@gmail.com"><picture>
+      		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901797-79b28f48-3d53-4f4f-a97b-e05f54a8e426.svg">
+      		<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901790-94f77598-b29b-46b6-b3bc-9e1e6280455e.svg">
+      		<img alt="Email-Link" src="">
+    	</picture></a>
+	<a href="https://github.com/FitzHawke"><picture>
+      		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901798-74324f56-d52c-4397-b411-d082b5390177.svg">
+      		<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901789-6153eb88-d8bf-4a99-81f3-90196cdd336f.svg">
+      		<img alt="Github-Link" src="">
+    	</picture></a>
+	<a href="https://www.linkedin.com/in/will-featherston/"><picture>
+      		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901795-491dd20d-8257-454f-b83d-c096214c1424.svg">
+      		<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901787-bab0055f-2e6b-496e-953d-2a50e0f9c9c0.svg">
+      		<img alt="LinkedIn-Link" src="">
+    	</picture></a>
+	<a href="https://twitter.com/FitzHawke"><picture>
+      		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901793-9a99bfa1-c5ea-465b-83a6-3fba9de77151.svg">
+      		<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901784-cc087654-1d37-42f8-ab7a-75a3fbdb0b8f.svg">
+      		<img alt="Twitter-Link" src="">
+    	</picture></a>
+	<a href="https://fitzhawke.com"><picture>
+      		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901791-1f2db973-0cfb-4bc6-837d-824916c84262.svg">
+      		<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901783-1de4de61-0257-4281-86ed-314511c5711b.svg">
+      		<img alt="Twitter-Link" src="">
+    	</picture></a>
 </p>
