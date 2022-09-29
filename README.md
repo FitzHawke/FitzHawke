@@ -95,8 +95,16 @@ I'm a Full-Stack Web Developer based in Canada, who is passionate about Web Deve
 <hr/>
 
 ## 🔥 Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=algolia" alt="fitzhawke" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=algolia&layout=compact" alt="fitzhawke" /></p>
+<p align="center"><picture>
+      	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=vue-dark">
+      	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=vue">
+	<img alt="Streak-Stats" src="">
+</picture></p>
+<p align="center"><picture>
+      	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=vue-dark&layout=compact">
+      	<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=vue&layout=compact">
+	<img alt="Readme-Stats" src="">
+</picture></p>
 
 <br>
 <hr/>
