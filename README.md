@@ -46,7 +46,7 @@ I'm a Full-Stack Web Developer based in Canada, who is passionate about Web Deve
       <h3 align="center">PEFS Tracker</h3>
         <br />
       <a target="_blank" href="https://pefs.cyclic.app/">
-            <img src="https://user-images.githubusercontent.com/60191328/193085123-c868955d-f7c5-480b-acfa-6fd6b29eab27.png" width="100%"  alt="PEFS Tracker"/>
+            <img src="https://user-images.githubusercontent.com/60191328/197449931-1fc473e5-c923-47ed-80fb-318faf751674.png" width="100%"  alt="PEFS Tracker"/>
         </a>
         <br />
         <p align="center">
@@ -79,13 +79,14 @@ I'm a Full-Stack Web Developer based in Canada, who is passionate about Web Deve
         <p><strong>Tools</strong> - Typescript Astro React Tailwind</p>
     </td> 
   </tr>
+
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">100D Budget</h3>
         <br />
       <a target="_blank" href="https://budget-tracker-100devs.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/67307808/188751869-2db12189-c8ea-4112-bcf0-73c5e05427c1.gif" width="100%"  alt="N/A"/>
+            <img src="https://user-images.githubusercontent.com/60191328/197450385-62b3c93d-5522-4beb-b64d-46ef1f1e56fb.png" width="100%"  alt="N/A"/>
         </a>
         <br />
         <p align="center">
