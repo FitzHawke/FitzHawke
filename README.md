@@ -1,7 +1,13 @@
-<h1 align="center">Hello There, I'm Will Featherston 👋</h1>
+<h1 align="center">Hello There 👋</h1>
 
-<h4 align="center">
-I'm a Full-Stack Web Developer based in Canada, who is passionate about Web Development, Open-source, Web Accessiblity and Design. I enjoy contributing to open source projects and creating web applications that are responsive, powerful and accessible to all. I sometimes program under the pseudonym FitzHawke.
+I'm Will Featherston, also known as FitzHawke, an enthusiastic Full-Stack Web Developer based in Canada. My passion lies in the world of Web Development, Open-source projects, Web Accessibility, and Design. I enjoy contributing to open source projects and crafting web applications that are responsive, powerful and accessible to everyone.
+
+- 🔨 Currently, I'm immersed in an exciting project called PEFS—a tracking app that currently focuses on personal fitness.
+- 🔭 On top of that, I'm diving into the fascinating world of NixOS by researching, testing, and transitioning multiple desktops and servers, while creating configurations for the various programs and services I use.
+- 🌱 My learning journey never ceases. At present I'm delving deeper into the Nix language and constantly honing my skills in JavaScript/TypeScript their plethora of associated toolsets.
+- ⭐ Fun fact: I used to work as a research specialist in a corn breeding program. As such I have a healthy appreciation for all varieties of corny jokes! 🌽
+
+Join me on this exhilarating journey as we redefine what's possible in the world of web development!
 
 <h6 align="center">Languages and Tools:</h6>
 <div align="center">  
