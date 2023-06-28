@@ -34,8 +34,6 @@ Join me on this exhilarating journey as we redefine what's possible in the world
 </div>
 </p>
 
-</h4>
-
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
@@ -43,7 +41,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
     <td width="50%" valign="top">
       <h3 align="center">PEFS Tracker</h3>
         <br />
-      <a target="_blank" href="https://pefs.cyclic.app/">
+      <a target="_blank" href="https://github.com/FitzHawke/PEFS">
             <img src="https://user-images.githubusercontent.com/60191328/197449931-1fc473e5-c923-47ed-80fb-318faf751674.png" width="100%"  alt="PEFS Tracker"/>
         </a>
         <br />
@@ -59,9 +57,30 @@ Join me on this exhilarating journey as we redefine what's possible in the world
         <p><strong>Tools</strong> - JS CSS Node Express React Redux MongoDB</p>
     </td>
    <td width="50%" valign="top">
+      <h3 align="center">Soxyn</h3>
+        <br />
+      <a target="_blank" href="https://github.com/FitzHawke/soxyn">
+            <img src="https://github.com/FitzHawke/FitzHawke/assets/60191328/4850bc1d-e634-4eeb-83f0-e4cef6fc7990" width="100%"  alt="N/A"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/FitzHawke/soxyn" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/FitzHawke/soxyn" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tools</strong> - Nix NixOS Linux</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Portfolio Page</h3>
         <br />
-      <a target="_blank" href="https://fitzhawke.com">
+      <a target="_blank" href="https://github.com/FitzHawke/Portfolio">
             <img src="https://user-images.githubusercontent.com/60191328/193087174-a98748c5-6004-4856-a750-14288ecbc874.png" width="100%"  alt="N/A"/>
         </a>
         <br />
@@ -76,13 +95,31 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       </p>
         <p><strong>Tools</strong> - Typescript Astro React Tailwind</p>
     </td>
-  </tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Steve Portfolio</h3>
+        <br />
+      <a target="_blank" href="https://github.com/FitzHawke/StevePortfolio">
+            <img src="https://user-images.githubusercontent.com/60191328/197409830-ea2f01fd-61e7-42a3-95f1-797dd4e38d8f.png" width="100%"  alt="N/A"/>
+        </a>
+        <br />
+        <p align="center">
 
+  <a href="https://github.com/FitzHawke/StevePortfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://steves-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tools</strong> - HTML CSS JavaScript SCSS</p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">100D Budget</h3>
         <br />
-      <a target="_blank" href="https://budget-tracker-100devs.herokuapp.com/">
+      <a target="_blank" href="https://github.com/FitzHawke/budget-mvc-auth-local">
             <img src="https://user-images.githubusercontent.com/60191328/197450385-62b3c93d-5522-4beb-b64d-46ef1f1e56fb.png" width="100%"  alt="N/A"/>
         </a>
         <br />
@@ -97,10 +134,10 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       </p>
         <p><strong>Tools</strong> - Node Express EJS CSS MongoDB Passport.js</p>
     </td>
-   <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Dream Home Matcher</h3>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://github.com/FitzHawke/react-redux-picker">
             <img src="https://user-images.githubusercontent.com/60191328/193088570-868f412e-c487-49e7-9229-b4f181b068b5.png" width="100%"  alt="Dream Home Matcher"/>
         </a>
         <br />
@@ -109,32 +146,11 @@ Join me on this exhilarating journey as we redefine what's possible in the world
   <a href="https://github.com/FitzHawke/react-redux-picker" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/FitzHawke/react-redux-picker" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Tools</strong> - JS React Redux</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Steve Portfolio</h3>
-        <br />
-      <a target="_blank" href="https://steves-portfolio.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/60191328/197409830-ea2f01fd-61e7-42a3-95f1-797dd4e38d8f.png" width="100%"  alt="N/A"/>
-        </a>
-        <br />
-        <p align="center">
-
-  <a href="https://github.com/FitzHawke/StevePortfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://steves-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Tools</strong> - HTML CSS JavaScript SCSS</p>
     </td>
   </tr>
 
