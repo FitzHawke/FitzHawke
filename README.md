@@ -42,7 +42,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       <h3 align="center">PEFS Tracker</h3>
         <br />
       <a target="_blank" href="https://github.com/FitzHawke/PEFS">
-            <img src="https://user-images.githubusercontent.com/60191328/197449931-1fc473e5-c923-47ed-80fb-318faf751674.png" width="100%"  alt="PEFS Tracker"/>
+            <img src="./assets/images/pefs.png" width="100%"  alt="PEFS Tracker"/>
         </a>
         <br />
         <p align="center">
@@ -60,7 +60,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       <h3 align="center">Soxyn</h3>
         <br />
       <a target="_blank" href="https://github.com/FitzHawke/soxyn">
-            <img src="https://github.com/FitzHawke/FitzHawke/assets/60191328/4850bc1d-e634-4eeb-83f0-e4cef6fc7990" width="100%"  alt="N/A"/>
+            <img src="./assets/images/soxyn.png" width="100%"  alt="N/A"/>
         </a>
         <br />
         <p align="center">
@@ -81,7 +81,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       <h3 align="center">Portfolio Page</h3>
         <br />
       <a target="_blank" href="https://github.com/FitzHawke/Portfolio">
-            <img src="https://user-images.githubusercontent.com/60191328/193087174-a98748c5-6004-4856-a750-14288ecbc874.png" width="100%"  alt="N/A"/>
+            <img src="./assets/images/website.png" width="100%"  alt="N/A"/>
         </a>
         <br />
         <p align="center">
@@ -99,7 +99,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       <h3 align="center">Steve Portfolio</h3>
         <br />
       <a target="_blank" href="https://github.com/FitzHawke/StevePortfolio">
-            <img src="https://user-images.githubusercontent.com/60191328/197409830-ea2f01fd-61e7-42a3-95f1-797dd4e38d8f.png" width="100%"  alt="N/A"/>
+            <img src="./assets/images/steve.png" width="100%"  alt="N/A"/>
         </a>
         <br />
         <p align="center">
@@ -120,7 +120,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       <h3 align="center">100D Budget</h3>
         <br />
       <a target="_blank" href="https://github.com/FitzHawke/budget-mvc-auth-local">
-            <img src="https://user-images.githubusercontent.com/60191328/197450385-62b3c93d-5522-4beb-b64d-46ef1f1e56fb.png" width="100%"  alt="N/A"/>
+            <img src="./assets/images/100d.png" width="100%"  alt="N/A"/>
         </a>
         <br />
         <p align="center">
@@ -138,7 +138,7 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       <h3 align="center">Dream Home Matcher</h3>
         <br />
       <a target="_blank" href="https://github.com/FitzHawke/react-redux-picker">
-            <img src="https://user-images.githubusercontent.com/60191328/193088570-868f412e-c487-49e7-9229-b4f181b068b5.png" width="100%"  alt="Dream Home Matcher"/>
+            <img src="./assets/images/rhp.png" width="100%"  alt="Dream Home Matcher"/>
         </a>
         <br />
         <p align="center">
@@ -178,28 +178,33 @@ Join me on this exhilarating journey as we redefine what's possible in the world
 
 <p align="center">
  <a href="mailto:will.featherston@gmail.com"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901797-79b28f48-3d53-4f4f-a97b-e05f54a8e426.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901790-94f77598-b29b-46b6-b3bc-9e1e6280455e.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/email.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/email.svg">
         <img alt="Email-Link" src="">
      </picture></a>
+ <a href="https://fitzhawke.com"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/matrix.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/matrix.svg">
+        <img alt="Website-Link" src="">
+     </picture></a>
  <a href="https://github.com/FitzHawke"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901798-74324f56-d52c-4397-b411-d082b5390177.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901789-6153eb88-d8bf-4a99-81f3-90196cdd336f.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/github.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/github.svg">
         <img alt="Github-Link" src="">
      </picture></a>
  <a href="https://www.linkedin.com/in/will-featherston/"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901795-491dd20d-8257-454f-b83d-c096214c1424.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901787-bab0055f-2e6b-496e-953d-2a50e0f9c9c0.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/linkedin.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/linkedin.svg">
         <img alt="LinkedIn-Link" src="">
      </picture></a>
  <a href="https://twitter.com/FitzHawke"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901793-9a99bfa1-c5ea-465b-83a6-3fba9de77151.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901784-cc087654-1d37-42f8-ab7a-75a3fbdb0b8f.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/twitter.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/twitter.svg">
         <img alt="Twitter-Link" src="">
      </picture></a>
  <a href="https://fitzhawke.com"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60191328/192901791-1f2db973-0cfb-4bc6-837d-824916c84262.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60191328/192901783-1de4de61-0257-4281-86ed-314511c5711b.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/website.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/website.svg">
         <img alt="Website-Link" src="">
      </picture></a>
 </p>
