@@ -13,20 +13,14 @@ Join me on this journey as we discover what's possible in the world of web devel
 <div align="center">
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      src="./assets/tools/html5.svg"
       alt="HTML5"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      src="./assets/tools/css3.svg"
       alt="CSS3"
-      width="25"
-      height="25"
     />
   </a>
   <a
@@ -35,164 +29,131 @@ Join me on this journey as we discover what's possible in the world of web devel
     rel="noreferrer"
   >
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="./assets/tools/javascript.svg"
       alt="javascript"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="./assets/tools/typescript.svg"
       alt="typescript"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      src="./assets/tools/react.svg"
       alt="react"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      src="./assets/tools/redux.svg"
       alt="redux"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+      src="./assets/tools/jest.svg"
       alt="jest"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.astro.build/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/astro.svg"
+      src="./assets/tools/astro.svg"
       alt="astro"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+      src="./assets/tools/tailwind_css.svg"
       alt="tailwindcss"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      src="./assets/tools/postgresql.svg"
       alt="postgresql"
-      width="25"
-      height="25"
+    />
+  </a>
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/tools/sqlite.svg"
+      alt="sqlite"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      src="./assets/tools/mongodb.svg"
       alt="mongodb"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+      src="./assets/tools/git.svg"
       alt="git"
-      width="25"
-      height="25"
     />
   </a>
+  <a href="https://fitzhawke.com"
+    ></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      alt="github"
-      width="25"
-      height="25"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./assets/tools/github_light.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./assets/tools/github_dark.svg"
+      />
+      <img alt="github" src="" />
+    </picture>
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      src="./assets/tools/nginx.svg"
       alt="nginx"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      src="./assets/tools/docker.svg"
       alt="docker"
-      width="25"
-      height="25"
+    />
+  </a>
+  <a href="https://podman.io/" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/tools/podman.svg"
+      alt="podman"
     />
   </a>
   <a href="https://nixos.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg"
+      src="./assets/tools/nixos.svg"
       alt="nixos"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="./assets/tools/linux.svg"
       alt="linux"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      src="./assets/tools/bash.svg"
       alt="bash"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      src="./assets/tools/nodejs.svg"
       alt="nodejs"
-      width="25"
-      height="25"
     />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="./assets/tools/python.svg"
       alt="python"
-      width="25"
-      height="25"
     />
   </a>
 </div>
