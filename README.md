@@ -189,7 +189,9 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       />
       <img alt="Email-Link" src="" /> </picture
   ></a>
-  <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  <picture>
+    <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  </picture>
   <a href="https://matrix.to/#/@fitzhawke:matrix.org"
     ><picture>
       <source
@@ -202,7 +204,9 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       />
       <img alt="Matrix-Chat-Link" src="" /> </picture
   ></a>
-  <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  <picture>
+    <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  </picture>
   <a href="https://github.com/FitzHawke"
     ><picture>
       <source
@@ -215,7 +219,9 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       />
       <img alt="Github-Link" src="" /> </picture
   ></a>
-  <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  <picture>
+    <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  </picture>
   <a href="https://www.linkedin.com/in/will-featherston/"
     ><picture>
       <source
@@ -228,7 +234,9 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       />
       <img alt="LinkedIn-Link" src="" /> </picture
   ></a>
-  <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  <picture>
+    <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  </picture>
   <a href="https://twitter.com/FitzHawke"
     ><picture>
       <source
@@ -241,7 +249,9 @@ Join me on this exhilarating journey as we redefine what's possible in the world
       />
       <img alt="Twitter-Link" src="" /> </picture
   ></a>
-  <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  <picture>
+    <img src="./assets/social/spacer.svg" alt="blank space as derpy formatting" />
+  </picture>
   <a href="https://fitzhawke.com"
     ><picture>
       <source
