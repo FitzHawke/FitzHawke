@@ -180,31 +180,31 @@ Join me on this exhilarating journey as we redefine what's possible in the world
  <a href="mailto:will.featherston@gmail.com"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/email.svg">
         <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/email.svg">
-        <img alt="Email-Link" src="">
+        <img alt="Email-Link" style="margin: 12px" src="">
      </picture></a>
- <a href="https://fitzhawke.com"><picture>
+ <a href="https://matrix.to/#/@fitzhawke:matrix.org"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/matrix.svg">
         <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/matrix.svg">
-        <img alt="Website-Link" src="">
+        <img alt="Matrix-Chat-Link" style="margin: 12px" src="">
      </picture></a>
  <a href="https://github.com/FitzHawke"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/github.svg">
         <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/github.svg">
-        <img alt="Github-Link" src="">
+        <img alt="Github-Link" style="margin: 12px" src="">
      </picture></a>
  <a href="https://www.linkedin.com/in/will-featherston/"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/linkedin.svg">
         <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/linkedin.svg">
-        <img alt="LinkedIn-Link" src="">
+        <img alt="LinkedIn-Link" style="margin: 12px" src="">
      </picture></a>
  <a href="https://twitter.com/FitzHawke"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/twitter.svg">
         <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/twitter.svg">
-        <img alt="Twitter-Link" src="">
+        <img alt="Twitter-Link" style="margin: 12px" src="">
      </picture></a>
  <a href="https://fitzhawke.com"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/social/dark/website.svg">
         <source media="(prefers-color-scheme: light)" srcset="./assets/social/light/website.svg">
-        <img alt="Website-Link" src="">
+        <img alt="Website-Link" style="margin: 12px" src="">
      </picture></a>
 </p>
