@@ -358,15 +358,11 @@ Join me on this journey as we discover what's possible in the world of web devel
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="
-        https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=vue-dark
-      "
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=vue-dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="
-        https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=vue
-      "
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=fitzhawke&theme=vue"
     />
     <img alt="Streak-Stats" src="" />
   </picture>
@@ -375,15 +371,11 @@ Join me on this journey as we discover what's possible in the world of web devel
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="
-        https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=vue-dark&layout=compact
-      "
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=vue-dark&layout=compact"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="
-        https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=vue&layout=compact
-      "
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzhawke&theme=vue&layout=compact"
     />
     <img alt="Readme-Stats" src="" />
   </picture>
