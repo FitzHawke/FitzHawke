@@ -93,8 +93,6 @@ Join me on this journey as we discover what's possible in the world of web devel
       alt="git"
     />
   </a>
-  <a href="https://fitzhawke.com"
-    ></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -175,7 +173,7 @@ Join me on this journey as we discover what's possible in the world of web devel
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
         </a>
-        <a href="https://pefs.cyclic.app/" target="_blank">
+        <a href="https://pefson.cyclic.app/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
           />
@@ -196,7 +194,7 @@ Join me on this journey as we discover what's possible in the world of web devel
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
         </a>
-        <a href="https://github.com/FitzHawke/soxyn" target="_blank">
+        <a href="https://github.com/FitzHawke/soxyn/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
           />
@@ -210,17 +208,17 @@ Join me on this journey as we discover what's possible in the world of web devel
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Page</h3>
       <br />
-      <a target="_blank" href="https://github.com/FitzHawke/Portfolio">
+      <a target="_blank" href="https://github.com/FitzHawke/website/">
         <img src="./assets/images/website.png" width="100%" alt="N/A" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/FitzHawke/Portfolio" target="_blank">
+        <a href="https://github.com/FitzHawke/website/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
         </a>
-        <a href="https://fitzhawke.com" target="_blank">
+        <a href="https://fitzhawke.com/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
           />
@@ -231,12 +229,12 @@ Join me on this journey as we discover what's possible in the world of web devel
     <td width="50%" valign="top">
       <h3 align="center">Steve Portfolio</h3>
       <br />
-      <a target="_blank" href="https://github.com/FitzHawke/StevePortfolio">
+      <a target="_blank" href="https://github.com/FitzHawke/StevePortfolio/">
         <img src="./assets/images/steve.png" width="100%" alt="N/A" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/FitzHawke/StevePortfolio" target="_blank">
+        <a href="https://github.com/FitzHawke/StevePortfolio/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
@@ -257,21 +255,21 @@ Join me on this journey as we discover what's possible in the world of web devel
       <br />
       <a
         target="_blank"
-        href="https://github.com/FitzHawke/budget-mvc-auth-local"
+        href="https://github.com/FitzHawke/budget-mvc-auth-local/"
       >
         <img src="./assets/images/100d.png" width="100%" alt="N/A" />
       </a>
       <br />
       <p align="center">
         <a
-          href="https://github.com/FitzHawke/budget-mvc-auth-local"
+          href="https://github.com/FitzHawke/budget-mvc-auth-local/"
           target="_blank"
         >
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
         </a>
-        <a href="https://budget-tracker-100devs.herokuapp.com/" target="_blank">
+        <a href="https://github.com/FitzHawke/budget-mvc-auth-local/" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
           />
@@ -282,7 +280,7 @@ Join me on this journey as we discover what's possible in the world of web devel
     <td width="50%" valign="top">
       <h3 align="center">Dream Home Matcher</h3>
       <br />
-      <a target="_blank" href="https://github.com/FitzHawke/react-redux-picker">
+      <a target="_blank" href="https://github.com/FitzHawke/react-redux-picker/">
         <img
           src="./assets/images/rhp.png"
           width="100%"
@@ -292,7 +290,7 @@ Join me on this journey as we discover what's possible in the world of web devel
       <br />
       <p align="center">
         <a
-          href="https://github.com/FitzHawke/react-redux-picker"
+          href="https://github.com/FitzHawke/react-redux-picker/"
           target="_blank"
         >
           <img
@@ -300,7 +298,7 @@ Join me on this journey as we discover what's possible in the world of web devel
           />
         </a>
         <a
-          href="https://github.com/FitzHawke/react-redux-picker"
+          href="https://github.com/FitzHawke/react-redux-picker/"
           target="_blank"
         >
           <img
