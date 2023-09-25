@@ -340,7 +340,7 @@ Join me on this journey as we discover what's possible in the world of web devel
   </picture>
 </p>
 
-<h1 align="center">🙋‍♀️ Let's Connect</h1>
+<h1 align="center">🙋 Let's Connect</h1>
 
 <p align="center">
   <a href="mailto:will.featherston@gmail.com"
@@ -408,24 +408,6 @@ Join me on this journey as we discover what's possible in the world of web devel
         srcset="./assets/social/light/linkedin.svg"
       />
       <img alt="LinkedIn-Link" src="" /> </picture
-  ></a>
-  <picture>
-    <img
-      src="./assets/social/spacer.svg"
-      alt="blank space as derpy formatting"
-    />
-  </picture>
-  <a href="https://twitter.com/FitzHawke"
-    ><picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="./assets/social/dark/twitter.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="./assets/social/light/twitter.svg"
-      />
-      <img alt="Twitter-Link" src="" /> </picture
   ></a>
   <picture>
     <img
